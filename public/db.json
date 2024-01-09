@@ -1,0 +1,87 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "_id": "48c672437c4trbfvhr3",
+      "text": "Это интересно! Если ты всё ещё в раздумьях, как начать готовиться к ОГЭ по химии, тогда этот файл для тебя!",
+      "user": {
+        "fullName": "Химия ОГЭ 2023",
+        "username": "Умскул",
+        "avatarUrl": "https://sun7.userapi.com/sun7-14/s/v1/ig2/0aTPzFKE7PehyLjCZZ3qwRg5TVm4a92ZxVGB3_mbiH0-BatBcR07jHILQz7KY9K_8Scfs-UtZ8NnpssYz6KOMa2L.jpg?size=50x50&quality=95&crop=0,0,1995,1995&ava=1"
+      }
+    },
+    {
+      "_id": "eg0sobw700w",
+      "text": "https://mui.com/material-ui/react-stepper/",
+      "user": {
+        "fullName": "Aynazar Abdullin",
+        "username": "moort1s",
+        "avatarUrl": "https://sun7.userapi.com/sun7-13/s/v1/ig2/Bb49S16F_Py87uA24qMgxy2vQ0ZgqEITbszOJP2cfgfukHHwrLex4FEEp12cHX7IGZJSaxHuY1oxozf7Fyw1Cxg7.jpg?size=50x50&quality=95&crop=93,48,459,459&ava=1"
+      },
+      "id": 2
+    },
+    {
+      "_id": "mu3x6eirv3i",
+      "text": "First tweet",
+      "user": {
+        "fullName": "Aynazar Abdullin",
+        "username": "moort1s",
+        "avatarUrl": "https://sun7.userapi.com/sun7-13/s/v1/ig2/Bb49S16F_Py87uA24qMgxy2vQ0ZgqEITbszOJP2cfgfukHHwrLex4FEEp12cHX7IGZJSaxHuY1oxozf7Fyw1Cxg7.jpg?size=50x50&quality=95&crop=93,48,459,459&ava=1"
+      },
+      "id": 3
+    },
+    {
+      "_id": "7ulmuywpclf",
+      "text": "ew",
+      "user": {
+        "fullName": "Aynazar Abdullin",
+        "username": "moort1s",
+        "avatarUrl": "https://sun7.userapi.com/sun7-13/s/v1/ig2/Bb49S16F_Py87uA24qMgxy2vQ0ZgqEITbszOJP2cfgfukHHwrLex4FEEp12cHX7IGZJSaxHuY1oxozf7Fyw1Cxg7.jpg?size=50x50&quality=95&crop=93,48,459,459&ava=1"
+      },
+      "id": 4
+    }
+  ],
+  "themes": [
+    {
+      "_id": 1,
+      "name": "#HandOffRussianHistory",
+      "count": 212
+    },
+    {
+      "_id": 2,
+      "name": "Photos",
+      "count": 2
+    },
+    {
+      "_id": 3,
+      "name": "University",
+      "count": 12312
+    }
+  ],
+  "users": [
+    {
+      "_id": 1,
+      "fullName": "Kellie Wyatt",
+      "username": "young",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?2"
+    },
+    {
+      "_id": 2,
+      "fullName": "Alyce Mathis",
+      "username": "flores",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    },
+    {
+      "_id": 3,
+      "fullName": "Sharlene Burton",
+      "username": "mercado",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    }
+  ],
+  "user": {
+    "_id": "60624342154ee1cdbbcd7b21",
+    "fullName": "Abdullin Aynazar",
+    "username": "moort1s",
+    "avatarUrl": "https://source.unsplash.com/random/100x100?1"
+  }
+}

@@ -1,0 +1,84 @@
+.user {
+	&__header {
+		height: 200px;
+		background-color: #c4cfd6;
+	}
+	&__info {
+		margin-top: -86px;
+		padding-top: 0;
+		padding: 20px;
+
+		.MuiAvatar-root {
+			width: 140px !important;
+			height: 140px !important;
+			border: 5px solid #fff;
+		}
+
+		ul {
+			display: flex;
+			flex-wrap: wrap;
+			margin: 0;
+			padding: 0;
+			list-style: none;
+
+			li {
+				margin-right: 30px;
+			}
+
+			div {
+				display: flex;
+			}
+		}
+		&-fullname {
+			font-weight: 800;
+			font-size: 20px;
+		}
+		&-description {
+			opacity: 0.9;
+		}
+		&-wrap {
+			display: flex;
+			flex-direction: column;
+		}
+		&-username {
+			font-size: 16px;
+			font-weight: 400;
+			color: rgba(0, 0, 0, 0.5);
+		}
+		&-details {
+			color: #5b7083;
+		}
+		&__tab {
+			.MuiTabPanel-root {
+				padding: 0;
+			}
+		}
+	}
+}
+.MuiTabs-flexContainer {
+	div {
+		div {
+			div {
+				display: flex !important;
+				justify-content: space-between !important;
+				width: 100%;
+			}
+			span {
+				width: 25% !important;
+			}
+		}
+	}
+}
+
+.MuiButtonBase-root-MuiTab-root {
+	button {
+		width: 25%;
+		white-space: nowrap;
+		text-transform: none;
+		font-weight: 700;
+	}
+}
+
+.MuiTabPanel-root {
+	padding: 0 !important;
+}
